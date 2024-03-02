@@ -1,6 +1,6 @@
-# OpenHarmony SDK
+# Command Line Tools for HarmonyOS 
 
-> The OpenHarmony SDK for GitHub Actions
+> The Command Line Tools for HarmonyOS for GitHub Actions
 
 see in [releases](/releases)
 
